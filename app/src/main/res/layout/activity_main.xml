@@ -81,6 +81,32 @@
         android:layout_alignParentStart="true"
         android:layout_marginTop="10dp"
         android:id="@+id/gyro2_value" />
+    <TextView
+        android:text=""
+        android:layout_width="90dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/gyro2_value"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="10dp"
+        android:id="@+id/x_value" />
+    <TextView
+        android:text=""
+        android:layout_width="90dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/y_value"
+        android:layout_alignBaseline="@+id/x_value"
+        android:layout_alignBottom="@+id/x_value"
+        android:layout_toEndOf="@+id/x_value"
+        android:layout_marginStart="14dp" />
+    <TextView
+        android:text=""
+        android:layout_width="90dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/z_value"
+        android:layout_alignBaseline="@+id/y_value"
+        android:layout_alignBottom="@+id/y_value"
+        android:layout_toEndOf="@+id/y_value"
+        android:layout_marginStart="14dp" />
 
 
 </RelativeLayout>

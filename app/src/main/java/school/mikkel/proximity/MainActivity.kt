@@ -18,6 +18,7 @@ class MainActivity : Activity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+
         val sensorManager : SensorManager = getSystemService(Context.SENSOR_SERVICE) as SensorManager
         val proximitySensor : Sensor = sensorManager.getDefaultSensor(Sensor.TYPE_PROXIMITY)
 
@@ -51,7 +52,7 @@ class MainActivity : Activity() {
             }
 
             override fun onSensorChanged(p0: SensorEvent?) {
-                var value = p0!!.values[2]
+                var value = p0!!.values[0]
 
                 if(value > 0.5f) {
                     gyro_value.text = "Anticlockwise"
@@ -86,6 +87,9 @@ class MainActivity : Activity() {
                     x++
                 }
                 gyro2_value.text = orientations[2].toString()
+                x_value.text = orientations[0].toString()
+                y_value.text = orientations[1].toString()
+                z_value.text = orientations[2].toString()
             }
 
         }
