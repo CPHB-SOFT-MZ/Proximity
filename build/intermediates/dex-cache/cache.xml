@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Mikkel/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko-sdk15/0.9/e741cd0d94e63a27bc7b8cbd8d04571c058bab32/anko-sdk15-0.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e741cd0d94e63a27bc7b8cbd8d04571c058bab32">
+        <dex dex="/Users/Mikkel/AndroidStudioProjects/Proximity/app/build/intermediates/transforms/dex/debug/folders/1000/10/anko-sdk15-0.9_9936e6aa1505cd0f67ef45f4bfce679b842eb801/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mikkel/AndroidStudioProjects/Proximity/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f08bc7b2b9e45870f70c6a9c1c229e8f53ec7224">
+        <dex dex="/Users/Mikkel/AndroidStudioProjects/Proximity/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_dda18b59744fbe97e8fbf49949f1bf1f94a93482/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mikkel/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko-common/0.9/26c6156bea5eb494474c90528240daadf4b067c8/anko-common-0.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="26c6156bea5eb494474c90528240daadf4b067c8">
+        <dex dex="/Users/Mikkel/AndroidStudioProjects/Proximity/app/build/intermediates/transforms/dex/debug/folders/1000/10/anko-common-0.9_62d3bd4085216207b07264ce5ed4abbb8491532a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mikkel/AndroidStudioProjects/Proximity/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/Mikkel/AndroidStudioProjects/Proximity/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_cfb1d79cbb8e9d715fd8675ce06af2c5f3299100/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mikkel/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.0.6/d19acb6ed49b9c48228c0e5dff8071fce23be4b8/kotlin-stdlib-1.0.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d19acb6ed49b9c48228c0e5dff8071fce23be4b8">
+        <dex dex="/Users/Mikkel/AndroidStudioProjects/Proximity/app/build/intermediates/transforms/dex/debug/folders/1000/10/kotlin-stdlib-1.0.6_9a3aa84aaf3edac57131f7d87e57d86fd891600e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mikkel/AndroidStudioProjects/Proximity/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/Mikkel/AndroidStudioProjects/Proximity/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_8a8868fcd25cafb75c0f3857eb85a43ee422f678/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mikkel/AndroidStudioProjects/Proximity/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/Mikkel/AndroidStudioProjects/Proximity/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_a8652438745b21e5e728798cd2b108e7445c1bfc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mikkel/AndroidStudioProjects/Proximity/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a297f4bb9065e2d93fe011ca46b0dd288eff5970">
+        <dex dex="/Users/Mikkel/AndroidStudioProjects/Proximity/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a2e87ecbfb13b371fdce41f9f1c9fe940c6390e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mikkel/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/Mikkel/AndroidStudioProjects/Proximity/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_613538847dd22f958af1b44ad5eed0eb5548d054/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mikkel/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-runtime/1.0.6/3562c66f648480d3bd4f76cff722488ced13445b/kotlin-runtime-1.0.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3562c66f648480d3bd4f76cff722488ced13445b">
+        <dex dex="/Users/Mikkel/AndroidStudioProjects/Proximity/app/build/intermediates/transforms/dex/debug/folders/1000/10/kotlin-runtime-1.0.6_a48481a5bb6a3785841768f2c1585872210f9ddd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mikkel/AndroidStudioProjects/Proximity/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/Mikkel/AndroidStudioProjects/Proximity/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_9b59f03358d6302b9fd1a4751a5e6acc66cd71a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mikkel/AndroidStudioProjects/Proximity/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/Mikkel/AndroidStudioProjects/Proximity/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_073f98b25c98dd3812208e00c37315796d1a58c2/classes.dex" />
+    </item>
+
+</items>
