@@ -1,6 +1,7 @@
 # Gyroscope and Proximity
 ## What is it
 - Proximity
+
 It is a sensor that detects if an object is in its proximity.
 Proximity sensors are commonly used in smartphones, cars and security systems.
 There are different types of sensors for if you want to detect metal, plastic etc.
