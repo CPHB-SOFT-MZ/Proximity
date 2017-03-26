@@ -44,7 +44,7 @@ val proximitySensor : Sensor = sensorManager.getDefaultSensor(Sensor.TYPE_PROXIM
 
 Best practice is then to check if the sensor is available. The sensor is usually only not available if broken or if the device doesn’t have a proximity sensor.
 
-```
+```kotlin
 if(proximitySensor == null){
     Log.e(TAG, "Sensor not available")
     finish()
