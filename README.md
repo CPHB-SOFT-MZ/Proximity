@@ -19,7 +19,7 @@ We have the 3 axises x, y and z.
 It is used by the phone to see if it should show you in portrait or landscape.
 
 
-![PhoneGyro](http://www.geeky-gadgets.com/wp-content/uploads/2014/08/Smartphone-Gyroscope.jpg)
+![PhoneGyro](https://developer.android.com/images/axis_device.png)
 
 ## How can we use it
 
